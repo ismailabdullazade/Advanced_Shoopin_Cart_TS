@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Bmw",
+      "price": 10.99,
+      "imgUrl": "/imgs/bmw.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Guitar",
+      "price": 1199,
+      "imgUrl": "/imgs/guitar.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Macbook",
+      "price": 1.05,
+      "imgUrl": "/imgs/macbook.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Villa",
+      "price": 14000,
+      "imgUrl": "/imgs/villa.jpg"
+    }
+  ]
+
