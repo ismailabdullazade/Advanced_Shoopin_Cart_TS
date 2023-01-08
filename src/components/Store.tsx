@@ -11,8 +11,9 @@ export const Store = ()=>{
         <Row md={2} xs={1} lg={3} >
 
             {storeItems.map(item=>(
+
                 <Col key={item.id} >
-                <StoreItem {...item}/>
+                    <StoreItem {...item}/>
                 </Col>
 
             ))}
